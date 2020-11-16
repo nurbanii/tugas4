@@ -38,9 +38,9 @@ href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,30
 			<!-- Logo -->
 			<a href="assets/index2.html" class="logo">
 				<!-- mini logo for sidebar mini 50x50 pixels -->
-				<span class="logo-mini"><b>A</b>LT</span>
+				<span class="logo-mini"><b>SPY</b></span>
 				<!-- logo for regular state and mobile devices -->
-				<span class="logo-lg"><b>Admin</b>LTE</span>
+				<span class="logo-lg"><b>Shooppy</b></span>
 			</a>
 			<!-- Header Navbar: style can be found in header.less -->
 			<nav class="navbar navbar-static-top">
@@ -114,7 +114,7 @@ href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,30
 					</li>
 					<li>
 						<a href="?page=produk/index">
-							<i class="fa fa-cubes"></i> <span>PRODUCT</span>
+							<i class="fa fa-cubes"></i> <span>PRODUK</span>
 						</a>
 					</li>
 				</ul>
@@ -186,3 +186,4 @@ href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,30
 		</script>
 	</body>
 	</html>
+
