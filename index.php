@@ -45,13 +45,13 @@ include 'admin/koneksi.php';
 		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="assets/img/1.1.jpg" class="d-block w-100" alt="assets/img/1.jpg" style="height: 650px">
+				<img src="assets/img/1.1.jpg" class="d-block w-100" alt="assets/img/1.jpg" style="height: 600px">
 			</div>
 			<div class="carousel-item">
-				<img src="assets/img/1.2.jpg" class="d-block w-100" alt="assets/img/1.jpg" style="height: 650px">
+				<img src="assets/img/1.2.jpg" class="d-block w-100" alt="assets/img/1.jpg" style="height: 600px">
 			</div>
 			<div class="carousel-item">
-				<img src="assets/img/1.3.jpg" class="d-block w-100" alt="assets/img/1.jpg" style="height: 650px">
+				<img src="assets/img/1.3.jpg" class="d-block w-100" alt="assets/img/1.jpg" style="height: 600px">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
