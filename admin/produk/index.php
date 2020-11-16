@@ -8,7 +8,7 @@
         <div class="col-xs-12">
           <div class="box">
             <div class="box-header">
-              <a href="?page=produk/tambah" class="btn btn-success btn-sm">Add</a>
+              <a href="?page=produk/tambah" class="btn btn-success btn-sm">Tambah</a>
             </div>
             <!-- /.box-header -->
             <div class="box-body">
@@ -37,8 +37,8 @@
                       <td><center><?php echo $data['ket_product'] ?></center></td>
                       <td>
                         <center>
-                          <a href="?page=produk/edit&id_product=<?php echo $data['id_product'] ?>" class="btn btn-primary btn-sm">Update</a>
-                          <a href="?page=produk/hapus&id_product=<?php echo $data['id_product'] ?>" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?!');">Delete</a>
+                          <a href="?page=produk/edit&id_product=<?php echo $data['id_product'] ?>" class="btn btn-primary btn-sm">Edit</a>
+                          <a href="?page=produk/hapus&id_product=<?php echo $data['id_product'] ?>" class="btn btn-danger btn-sm" onclick="return confirm('Yakin ingin menghapus data ini?!');">Hapus</a>
                         </center>
                       </td>
                     </tr>
